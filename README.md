@@ -5,13 +5,14 @@
 
 ## 2. 运行流程
 
-![相对路径](llm.jpg)
+![相对路径](流程图.jpg)
 
 ## 3. 资源包
 
 ```
 |--lab
-    |--llm.jpg
+    |--流程图.jpg
+    |--llm_api.py
     |--Part1-告警聚类.ipynb
     |--Part2-模型标签.ipynb
     |--Part3-数据扩展.ipynb
