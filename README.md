@@ -5,37 +5,13 @@
 
 ## 2. 运行流程
 
-![相对路径](img/WechatIMG735.jpg)
+![相对路径](llm.jpg)
 
 ## 3. 资源包
 
 ```
 |--lab
-    |--config
-        ｜--标签分布映射
-        ｜--标签类别映射
-    |--dataset
-        ｜--大模型标签
-        ｜--聚类模版
-        ｜--数据增强
-        ｜--推理输出
-        ｜--训练数据
-        ｜--原始告警
-    |--img
-        ｜--llm.jpg
-        ｜--WechatlMG735.jpg
-    |--models
-        ｜--model.onnx
-    |--pretrain_models
-        ｜--bert-base-chinese
-    |--ASParser.py
-    |--data_enhancement.py
-    |--findAllDelimiters.py
-    |--llm_api.py
-    |--onnxInference.py
-    |--sim.py
-    |--train_model.py
-    |--utils
+    |--llm.jpg
     |--Part1-告警聚类.ipynb
     |--Part2-模型标签.ipynb
     |--Part3-数据扩展.ipynb
@@ -43,10 +19,6 @@
     |--Part5-模型验证.ipynb
     |--Part6-场景验证.ipynb
 ```
-
-各种模型用途
-
-![相对路径](img/llm.jpg)
 
 ## 4. 环境
 
